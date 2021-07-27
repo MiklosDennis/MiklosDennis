@@ -1,6 +1,8 @@
 ### Hi there 👋
 This repository contains a list of Online Courses that I have participated in the past. Each folder will contain a README.md which outlines the steps required to run the code.
 
+*Note the projects in this repository are currently a work in progress and will be updated shortly.
+
 I'm currently learning the following in order:
   - Introduction to JavaScript (Codecademy: 10/30hrs completed) 
   - Front-End Engineer (Codeacademy: 0/350 hrs)
