@@ -10,7 +10,6 @@ I'm currently learning the following in order:
 Completed Online Courses:
   - Machine Learning at Stanford University (Coursera: ~4 Months)
   - Ethereum & Solidity by Stephen Grider (Udemy: ~25 hrs)
-  -
 
 Why I'm focusing on the above online courses?
  
